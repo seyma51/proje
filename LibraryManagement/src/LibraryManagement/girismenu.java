@@ -20,7 +20,7 @@ public class girismenu extends JFrame {
      * Launch the application.
      */
     public static void main(String[] args) {
-        EventQueue.invokeLater(new Runnable() {
+        EventQueue.invokeLater(new Runnable() { 
             public void run() {
                 try {
                     girismenu frame = new girismenu();

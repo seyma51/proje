@@ -87,7 +87,7 @@ public class kullanıcıgirisekrani extends JFrame {
         btnLogin.setBounds(340, 335, 96, 19);
         contentPane.add(btnLogin);
         
-        JLabel lblNewLabel = new JLabel("KULLANICI GİRİŞ EKRANI");
+        JLabel lblNewLabel = new JLabel("YÖNETİCİ GİRİŞ EKRANI");
         lblNewLabel.setBounds(282, 30, 150, 21);
         contentPane.add(lblNewLabel);
     }
